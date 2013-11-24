@@ -12,7 +12,7 @@
 }
 /* Basic Styling of the Body */
 body {
-  background: #e0e0e0 url(img/bg.png);
+  background-image:  url(img/bg.png);
   margin: 0 auto;
   color: black;
   text-align: center;
